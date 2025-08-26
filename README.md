@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sriram Vaibhav 👋  <br>ECE undergrad at IIIT Nagpur | VLSI & FPGA enthusiast | Currently interning at ISRO, working on digital comms and hardware design 🚀
+Hi, I’m Sriram Vaibhav 👋  <br>ECE undergrad at IIIT Nagpur | VLSI & FPGA enthusiast | Currently interning at ISRO, working on digital comms and hardware design 🚀 | Skills: Verilog, SystemVerilog, C, C++, Python.
 
 
 ## 🌐 Socials:
