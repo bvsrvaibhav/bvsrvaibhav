@@ -1,8 +1,8 @@
-![Header](https://ibb.co/FbRs3XC9)
-<h1 align="center">Hi 👋, I'm Sriram Vaibhav | ECE undergrad at IIIT Nagpur |</h1>
+![Header]([https://ibb.co/FbRs3XC9](https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/))
+<h1 align="center">Hi 👋, I'm Sriram Vaibhav | ECE undergrad at IIIT Nagpur </h1>
 <h3 align="center">Crafting silicon that gets the job done.</h3>
 <img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif")>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bvsrvaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="bvsrvaibhav" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bvsrvaibhav" alt="bvsrvaibhav" /></a> </p>
 
