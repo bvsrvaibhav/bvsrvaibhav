@@ -1,6 +1,6 @@
 ![GitHub Banner](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 # 💫 About Me:
-Hi, I’m Sriram Vaibhav 👋  <br>ECE undergrad at IIIT Nagpur | VLSI & FPGA enthusiast | Currently interning at ISRO, working on digital comms and hardware design 🚀 | Skills: Verilog, SystemVerilog, C, C++, Python.
+Hi, I’m Sriram Vaibhav 👋  <br>M.Tech - NITK, Surathkal | B.Tech - IIIT Nagpur | VLSI & FPGA enthusiast | Interned at BitMapper Technologies, and NRSC, ISRO | Skills: Verilog, RTL Design, C, C++, Python.
 
 
 ## 🌐 Socials:
